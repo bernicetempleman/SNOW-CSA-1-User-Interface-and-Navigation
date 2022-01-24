@@ -10,6 +10,7 @@ https://developer.servicenow.com/dev.do#!/learn/learning-plans/rome/new_to_servi
 https://www.servicenow.com/content/dam/servicenow/other-documents/training/servicenow-sys-admin-exam-specs.pdf
 
 ## Part 1: User Interface & Navigation
+https://docs.servicenow.com/bundle/rome-platform-user-interface/page/administer/navigation-and-ui/concept/c_NavigationAndTheUserInterface.html
 - ServiceNow Overview
 - Lists and Filters
 - Forms and Templates
